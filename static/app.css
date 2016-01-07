@@ -1,0 +1,48 @@
+h1 {
+    text-align:center;
+    font-family: courier;
+    font-size:3rem;
+    color: white;
+    margin-top: 20rem;
+    opacity: 0.5;
+}
+
+.box {
+    background-color: white;
+    background-position: fixed;
+    margin-top:-2.2rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    opacity:0.5;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+
+.about {
+    text-align:center;
+    font-family: courier;
+    font-size: 1rem;
+    margin-top: -1rem;
+}
+
+.projects {
+    margin-top: 1rem;
+    text-align:center;
+    font-family: courier;
+    font-size: 1rem;
+}
+
+/*p {
+    margin-left: 20rem;
+    margin-right: 20rem;
+}*/
+
+/*li {
+    margin-left: 32rem;
+}*/
+
+body {
+    background-image: url("bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
